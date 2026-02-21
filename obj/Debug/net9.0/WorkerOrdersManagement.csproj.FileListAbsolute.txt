@@ -46,3 +46,4 @@ C:\Users\diego\RepoDiego\Tecnico Universitario Superior\WorkerOrdersManagement\o
 C:\Users\diego\RepoDiego\Tecnico Universitario Superior\WorkerOrdersManagement\obj\Debug\net9.0\WorkerOrdersManagement.pdb
 C:\Users\diego\RepoDiego\Tecnico Universitario Superior\WorkerOrdersManagement\obj\Debug\net9.0\WorkerOrdersManagement.genruntimeconfig.cache
 C:\Users\diego\RepoDiego\Tecnico Universitario Superior\WorkerOrdersManagement\obj\Debug\net9.0\ref\WorkerOrdersManagement.dll
+C:\Users\diego\RepoDiego\Tecnico Universitario Superior\WorkerOrdersManagement\obj\Debug\net9.0\WorkerOrdersManagement.sourcelink.json

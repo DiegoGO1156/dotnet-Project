@@ -39,7 +39,7 @@ public class Worker : BackgroundService
                 orderProcessOne.Data.JornadaId = "1"
                 */
                 //Sin error por instancia por que se genera acá en el llamado del objeto 
-                orderProcessOne.Data = new Aspirantes();
+                orderProcessOne.Data = new Aplicant();
                 orderProcessOne.Data.Nombres = "Diego";
                 orderProcessOne.Data.Apellidos = "Garcia";
                 orderProcessOne.Data.Direccion = "asdasdasdas";
