@@ -21,7 +21,7 @@ namespace WorkerOrdersManagement.Domain.Entities
         Sin error por que acá ya se genera la instancia en la clase
         private Aspirantes _Data = new Aspirantes();
         */
-        private Aplicant _Data;
+        private EntityData _EntityData;
         //
 
         //Acceso a una propiedad privada
@@ -76,15 +76,15 @@ namespace WorkerOrdersManagement.Domain.Entities
         }
 
         //Acá se referencia la clase a donde pertence el dato
-        public Aplicant Data
+        public EntityData EntityData
         {
             get
             {
-                return _Data;
+                return _EntityData;
             }
             set
             {
-                _Data = value;
+                _EntityData = value;
             }
         }
         //
